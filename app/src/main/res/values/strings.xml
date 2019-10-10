@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">MostPopularApi</string>
+    <string name="new_nytymes">Save </string>
+    <string name="show_subtitle">Favorite</string>
+    <string name="hide_subtitle">Hide Subtitle</string>
+    <string name="subtitle_format">%1$d nytymes</string>
 </resources>
